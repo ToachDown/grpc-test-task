@@ -1,11 +1,11 @@
 # grpc-test-task
 
 # first step
-cd common-grpc
-mvn clean install
+cd common-grpc <br />
+mvn clean install <br />
 
 # second step
-cd ..
-mvn install 
-cd target
-java -jar <name-jarfile.jar>
+cd .. <br />
+mvn install  <br />
+cd target <br />
+java -jar <name-jarfile.jar> <br />
