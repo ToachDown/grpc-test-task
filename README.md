@@ -1,15 +1,15 @@
 # grpc-test-task
 
-5 endpoints <br />
+# 5 endpoints <br />
 
 # com.example.grpc.PersonService/create <br />
 request example: <br />
 
 { <br/>
-  "username": "test username",<br/>
+ <pre> "username": "test username",<br/>
   "age": 111,<br/>
   "email": "abc@exmaple.com",<br/>
-  "password":"testPass1"<br/>
+  "password":"testPass1"<br/> </pre>
 }<br/>
 
 # com.example.grpc.PersonService/update <br />
@@ -45,7 +45,7 @@ request example: <br />
 
 
 
-#run instruction
+# run instruction
 
 # first step
 cd common-grpc <br />
