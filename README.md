@@ -6,7 +6,7 @@
 request example: <br />
 
 { <br/>
- <pre> "username": "test username",<br/>
+ <pre>  "username": "test username",<br/>
   "age": 111,<br/>
   "email": "abc@exmaple.com",<br/>
   "password":"testPass1"<br/> </pre>
@@ -16,7 +16,7 @@ request example: <br />
 request example: <br />
 
 { <br/>
-   <pre> "id": 1, <br/>
+   <pre>  "id": 1, <br/>
   "username": "test username",<br/>
   "age": 111,<br/>
   "email": "abc@exmaple.com",<br/>
@@ -33,7 +33,9 @@ request example: <br />
 # com.example.grpc.PersonService/getAll <br />
 request example: <br />
 
-{ } <br/>
+{<br/>
+<pre><br/></pre> 
+} <br/>
 
 # com.example.grpc.PersonService/getById <br />
 
