@@ -57,4 +57,4 @@ mvn clean install <br /></pre>
 <pre>cd .. <br />
 mvn install  <br />
 cd target <br />
-java -jar <name-jarfile.jar> <br /></pre>
+java -jar "name-jarfile.jar" <br /></pre>
